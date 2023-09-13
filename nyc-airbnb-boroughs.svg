@@ -1,0 +1,22 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1000' height='500' >
+<rect x='0' y='0' width='100' height='216.61' fill='blue'>
+</rect>
+<text x='0' y='250' fill='black' font-size='20'>Manhattan: 21661
+</text>
+<rect x='200' y='0' width='100' height='201.04' fill='blue'>
+</rect>
+<text x='200' y='250' fill='black' font-size='20'>Brooklyn: 20104
+</text>
+<rect x='400' y='0' width='100' height='56.66' fill='blue'>
+</rect>
+<text x='400' y='250' fill='black' font-size='20'>Queens: 5666
+</text>
+<rect x='600' y='0' width='100' height='3.73' fill='blue'>
+</rect>
+<text x='600' y='250' fill='black' font-size='20'>Staten Island: 373
+</text>
+<rect x='800' y='0' width='100' height='10.91' fill='blue'>
+</rect>
+<text x='800' y='250' fill='black' font-size='20'>Bronx: 1091
+</text>
+</svg>
